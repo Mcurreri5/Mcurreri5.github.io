@@ -34,26 +34,42 @@ font-size: 24px;
 .About{
   text-align: center;
   font-size: 24px;
+  background-color: gold;
 }
 
 
 .Education{
   text-align: center;
   font-size: 24px;
+  background-color: gold;
 }
 
 
 .prog{
   text-align: center;
   font-size: 24px;
+  background-color: gold;
+
 }
 
 
 .gen{
+  align: center;
   text-align: center;
-  font-size: 24px;
+  font-size: 30px;
+  background-color: gold;
 }
 
+.table {
+  text-align: center;
+  background-color: gold;
+  font-size: 24px;
+
+}
+
+p{
+  background-color: gold;
+}
 
 #web {
 
