@@ -1,0 +1,60 @@
+body {
+  background-color: lightblue;
+}
+
+#header  {
+  font-size: 32px;
+  text-align: center;
+  font: verdana;
+  color: black;
+  border: 20px solid black;
+outline-style: double;
+outline-color: green;
+}
+
+#Menu {
+font-size: 24px;
+}
+.Menu {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.Menu li {
+  display: inline-block;
+  font-size: 30px;
+  padding: 15px;
+}
+
+.picture {
+  text-align: center;
+}
+
+.About{
+  text-align: center;
+  font-size: 24px;
+}
+
+
+.Education{
+  text-align: center;
+  font-size: 24px;
+}
+
+
+.prog{
+  text-align: center;
+  font-size: 24px;
+}
+
+
+.gen{
+  text-align: center;
+  font-size: 24px;
+}
+
+
+#web {
+
+}
